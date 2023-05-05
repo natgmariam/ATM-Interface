@@ -143,7 +143,7 @@ void hashMap<t1, t2>::resize(std::size_t amount)
 	table2.clear();
 
 	//resize the table
-	table1.resize(amount*2);  //idk if this is right but i tried -\-_-/-
+	table1.resize(amount*2); 
 	table2.resize(amount*2); 
 
 	//now refill the newly resized table with elements from the object vectors no empty spots 
