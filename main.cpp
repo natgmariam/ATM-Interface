@@ -1,7 +1,4 @@
 /*
-Name: Natnael Gebremariam
-NSHE: 5002150850
-Assignment: 6
 Description: Create double bracket hash function & use it to store bank information
 Input: Account Login, Deposit Amount, Withdrawal Amount, View, Exit
 Output:  Bank Account Information
